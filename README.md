@@ -19,15 +19,14 @@
 #### Install script on Termux
 ```bash
 $ pkg update && pkg upgrade
-$ pkg install python2
+$ pkg install python
 $ pkg install git
 $ pip install requests
-$ pip2 install requests
-$ git clone https://github.com/Fall-Xavier/simple
+$ git clone https://github.com/Xenzi-XN1/Bot_Follow
 ```
 #### Run script
 ```bash
-$ cd simple
-$ python2 run.py
+$ cd Bot_Follow
+$ python Bot_ig.py
 ```
 * Note : Script Bot Followers Delay/jeda sekitar 1jam
