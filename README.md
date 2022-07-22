@@ -8,11 +8,11 @@
 <p align="center">
  
 ### Tampilan Awal Script
- <img src="" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/Xenzi-XN1/Bot_Follow/blob/main/IMG_20220722_151718.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
 ### Hasil Dari Script
- <img src="" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/Xenzi-XN1/Bot_Follow/blob/main/IMG_20220722_151742.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
 
