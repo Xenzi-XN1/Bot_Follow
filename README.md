@@ -11,7 +11,7 @@
  <img src="https://github.com/Xenzi-XN1/Bot_Follow/blob/main/IMG_20220722_151742.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
-### Login Script
+### hasil dari Script
  <img src="https://github.com/Xenzi-XN1/Bot_Follow/blob/main/IMG_20220722_151718.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
@@ -21,12 +21,12 @@
 $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install git
-$ pip install -r requirements.txt
-$ git clone https://github.com/Xenzi-XN1/CF
+$ pip install requests
+$ git clone https://github.com/Xenzi-XN1/Bot_Follow
 ```
 #### Run script
 ```bash
-$ cd CF
-$ python Crack.py
+$ cd Bot_Follow
+$ python bot_ig.py
 ```
-* Note : Script CF Hasil Tergantung dari metode nya Bisa dapet CP/OK
+* Note : Script Bot Folowers Delay 1jam
